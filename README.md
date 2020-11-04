@@ -14,3 +14,6 @@ Discord: MrSon#8132
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Bengali.
 
+![stats](https://github-readme-stats.vercel.app/api?username=Uthsho&theme=dark&count_private=true&show_icons=true)
+
+![Page Visits](https://komarev.com/ghpvc/?username=Uthsho&color=orange)
