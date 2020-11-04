@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... 
 Discord: MrSon#8132
-[Discord Server](https://discord.gg/4ZQPGm63yp)
+[Discord Server](https://discord.gg/H2WgYXUvSk)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Bengali.
 
