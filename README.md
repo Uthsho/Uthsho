@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... 
-Discord: </Ghost>#4318
-[Discord Server](https://discord.gg/xxTH9eEYBh)
+Discord: [Discord Server](https://discord.gg/xxTH9eEYBh)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Bengali.
 
