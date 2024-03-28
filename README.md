@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - Discord bots for [Mobile Legends Bang Bang Global](https://discord.gg/mobilelegendsbangbang), [Mobile Legends Bang Bang North America](https://discord.gg/mlbbna), [MLBB Universe](https://discord.gg/mlbbuniverse)
 - Made discord bots for https://discord.gg/emote, https://discord.gg/pfp, https://discord.gg/edate
 - Did freelance for about 20+ bot projects back in 2021
-
+![](https://github.com/Uthsho/Uthsho/blob/main/Discord_1.gif)
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Uthsho&theme=dark&count_private=true&show_icons=true)
