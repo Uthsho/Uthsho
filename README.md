@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: DM 'uthsho' on Discord
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I love anime and games
+- ⚡ Fun fact: ... I love anime and games. Dangers in my heart too good fr.
 
 # Some past/current projects I have worked on:
 - [Galaxies](https://top.gg/bot/814441758037377045). It had reached 25k+ servers when it was active.
