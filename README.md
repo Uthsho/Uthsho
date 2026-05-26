@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Ghost. I’m a developer who enjoys building software, Discord bots, tournament systems, and any other fun projects. <br>I’m currently focused on learning Java, C++, and improving my programming skills. <br>I love anime, games, coding, and helping others.<br><br>- 🔭 I’m currently working on Discord Tournament Management<br>- 🌱 I’m currently thinking of learning Java, c++<br>- 📫 How to reach me: DM '.ghost4318' on Discord<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I love anime and games. Dangers in my heart too good fr.
+Hey, I’m Ishtiaq. I’m a developer who enjoys building software, Discord bots, tournament systems, and any other fun projects. <br>I’m currently focused on learning Java, C++, and improving my programming skills. <br>I love anime, games, coding, and helping others.<br><br>- 🔭 I’m currently working on Discord Tournament Management<br>- 🌱 I’m currently thinking of learning Java, c++<br>- 📫 How to reach me: DM '.ghost4318' on Discord<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I love anime and games. Dangers in my heart too good fr.
 
 
 ## 🌐 Socials:
