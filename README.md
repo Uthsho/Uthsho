@@ -21,6 +21,9 @@ Hey, I’m Ishtiaq. I’m a developer who enjoys building software, Discord bots
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Uthsho&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 💻 Project Examples
+![](https://github.com/Uthsho/Uthsho/blob/main/Discord_1.gif) ![](https://github.com/Uthsho/Uthsho/blob/main/Discord_2.gif)
+
 ---
 [![](https://komarev.com/ghpvc/?username=Uthsho&icon=0&color=1)](https://visitcount.itsvg.in)
 
